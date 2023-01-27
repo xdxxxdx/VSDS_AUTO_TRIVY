@@ -8,5 +8,5 @@
 
 * Run ```bash trivy.sh``` to scan all docker images
 
-#TODO
+# TODO
 Write a way to auto checkout github with given commmits
