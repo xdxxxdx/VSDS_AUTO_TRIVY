@@ -25,7 +25,7 @@ echo "############trivy scan ../VSDS-LDESWorkbench-NiFi############"
 trivy fs --offline-scan --security-checks vuln,secret,config --severity HIGH,CRITICAL -o ./LocalRepo/VSDS-LDESWorkbench-NiFi-local.output ../VSDS-LDESWorkbench-NiFi;
 echo "############trivy scan ../VSDS-LDESWorkbench-Services"############ 
 trivy fs --offline-scan --security-checks vuln,secret,config --severity HIGH,CRITICAL -o ./LocalRepo/VSDS-LDESWorkbench-Services-local.output ../VSDS-LDESWorkbench-Services; 
-echo "############trivy scan ../VSDS-LDES-E2E-testin############" 
+echo "############trivy scan ../VSDS-LDES-E2E-testing############" 
 trivy fs --offline-scan  --security-checks vuln,secret,config --severity HIGH,CRITICAL -o ./LocalRepo/VSDS-LDES-E2E-testing-local.output  ../VSDS-LDES-E2E-testing;
 
 
@@ -43,5 +43,3 @@ echo "############trivy scan ../VSDS-LDES-E2E-testin############"
 trivy repository --offline-scan --security-checks vuln,secret,config --severity HIGH,CRITICAL https://github.com/Informatievlaanderen/VSDS-LDES-E2E-testing > VSDS-LDES-E2E-testing-local.output;
 '
 
-
-trivy image --offline-scan --timeout 30m --security-checks vuln,secret,config --severity HIGH,CRITICAL  ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldes-workbench-nifi:${LDES_WORKBENCH_NIFI_TAG:-20230116t113945}> Test.output; 
