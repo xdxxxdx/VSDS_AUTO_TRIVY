@@ -1,1 +1,1 @@
-# VSDS-auto---trivy-scan
+# Trivy Scan script
