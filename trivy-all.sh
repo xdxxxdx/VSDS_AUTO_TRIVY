@@ -42,4 +42,3 @@ trivy repository --offline-scan --security-checks vuln,secret,config --severity 
 echo "############trivy scan ../VSDS-LDES-E2E-testin############" 
 trivy repository --offline-scan --security-checks vuln,secret,config --severity HIGH,CRITICAL https://github.com/Informatievlaanderen/VSDS-LDES-E2E-testing > VSDS-LDES-E2E-testing-local.output;
 '
-
