@@ -2,7 +2,7 @@
 
 # Scan docker images
 
-* Define docker tag in the ```user.env``` file 
+* Define docker tag in the ```user.env```, also ```bash``` file 
 
 * Run ``` docker-compose --env-file user.env pull --parallel``` to synchronize all the docker image with correct tag
 
