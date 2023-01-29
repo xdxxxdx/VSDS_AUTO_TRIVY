@@ -2,7 +2,7 @@
 # Command docker-compose --env-file user.env pull --parallel
 version: '3.3'
 services:
- #LDES_SERVER:
+ LDES_SERVER:
     image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldes-server:${LDES_SERVER_TAG:-20230112t1553}
  LDES_CLIENT_CLI_VSDS-LDESWorkbench-Services :
     image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldes-cli:${LDES_CLIENT_CLI_TAG:-20230116t1123}
