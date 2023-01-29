@@ -6,6 +6,6 @@
 
 * Run ``` docker-compose --env-file user.env pull --parallel``` to synchronize all the docker image with correct tag
 
-* Run ```bash trivy.sh``` to scan all docker images
+* Run ```bash trivyImage.sh``` to scan all docker images
 
-* run at command line ```export BASH_ENV=user.env```
+* Run ```bash trivyRepo.sh``` to scan all github repo with specific commit
