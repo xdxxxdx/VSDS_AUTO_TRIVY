@@ -1,88 +1,0 @@
-Enumerating objects: 852, done.
-Counting objects:   0% (1/852)Counting objects:   1% (9/852)Counting objects:   2% (18/852)Counting objects:   3% (26/852)Counting objects:   4% (35/852)Counting objects:   5% (43/852)Counting objects:   6% (52/852)Counting objects:   7% (60/852)Counting objects:   8% (69/852)Counting objects:   9% (77/852)Counting objects:  10% (86/852)Counting objects:  11% (94/852)Counting objects:  12% (103/852)Counting objects:  13% (111/852)Counting objects:  14% (120/852)Counting objects:  15% (128/852)Counting objects:  16% (137/852)Counting objects:  17% (145/852)Counting objects:  18% (154/852)Counting objects:  19% (162/852)Counting objects:  20% (171/852)Counting objects:  21% (179/852)Counting objects:  22% (188/852)Counting objects:  23% (196/852)Counting objects:  24% (205/852)Counting objects:  25% (213/852)Counting objects:  26% (222/852)Counting objects:  27% (231/852)Counting objects:  28% (239/852)Counting objects:  29% (248/852)Counting objects:  30% (256/852)Counting objects:  31% (265/852)Counting objects:  32% (273/852)Counting objects:  33% (282/852)Counting objects:  34% (290/852)Counting objects:  35% (299/852)Counting objects:  36% (307/852)Counting objects:  37% (316/852)Counting objects:  38% (324/852)Counting objects:  39% (333/852)Counting objects:  40% (341/852)Counting objects:  41% (350/852)Counting objects:  42% (358/852)Counting objects:  43% (367/852)Counting objects:  44% (375/852)Counting objects:  45% (384/852)Counting objects:  46% (392/852)Counting objects:  47% (401/852)Counting objects:  48% (409/852)Counting objects:  49% (418/852)Counting objects:  50% (426/852)Counting objects:  51% (435/852)Counting objects:  52% (444/852)Counting objects:  53% (452/852)Counting objects:  54% (461/852)Counting objects:  55% (469/852)Counting objects:  56% (478/852)Counting objects:  57% (486/852)Counting objects:  58% (495/852)Counting objects:  59% (503/852)Counting objects:  60% (512/852)Counting objects:  61% (520/852)Counting objects:  62% (529/852)Counting objects:  63% (537/852)Counting objects:  64% (546/852)Counting objects:  65% (554/852)Counting objects:  66% (563/852)Counting objects:  67% (571/852)Counting objects:  68% (580/852)Counting objects:  69% (588/852)Counting objects:  70% (597/852)Counting objects:  71% (605/852)Counting objects:  72% (614/852)Counting objects:  73% (622/852)Counting objects:  74% (631/852)Counting objects:  75% (639/852)Counting objects:  76% (648/852)Counting objects:  77% (657/852)Counting objects:  78% (665/852)Counting objects:  79% (674/852)Counting objects:  80% (682/852)Counting objects:  81% (691/852)Counting objects:  82% (699/852)Counting objects:  83% (708/852)Counting objects:  84% (716/852)Counting objects:  85% (725/852)Counting objects:  86% (733/852)Counting objects:  87% (742/852)Counting objects:  88% (750/852)Counting objects:  89% (759/852)Counting objects:  90% (767/852)Counting objects:  91% (776/852)Counting objects:  92% (784/852)Counting objects:  93% (793/852)Counting objects:  94% (801/852)Counting objects:  95% (810/852)Counting objects:  96% (818/852)Counting objects:  97% (827/852)Counting objects:  98% (835/852)Counting objects:  99% (844/852)Counting objects: 100% (852/852)Counting objects: 100% (852/852), done.
-Compressing objects:   0% (1/627)Compressing objects:   1% (7/627)Compressing objects:   2% (13/627)Compressing objects:   3% (19/627)Compressing objects:   4% (26/627)Compressing objects:   5% (32/627)Compressing objects:   6% (38/627)Compressing objects:   7% (44/627)Compressing objects:   8% (51/627)Compressing objects:   9% (57/627)Compressing objects:  10% (63/627)Compressing objects:  11% (69/627)Compressing objects:  12% (76/627)Compressing objects:  13% (82/627)Compressing objects:  14% (88/627)Compressing objects:  15% (95/627)Compressing objects:  16% (101/627)Compressing objects:  17% (107/627)Compressing objects:  18% (113/627)Compressing objects:  19% (120/627)Compressing objects:  20% (126/627)Compressing objects:  21% (132/627)Compressing objects:  22% (138/627)Compressing objects:  23% (145/627)Compressing objects:  24% (151/627)Compressing objects:  25% (157/627)Compressing objects:  26% (164/627)Compressing objects:  27% (170/627)Compressing objects:  28% (176/627)Compressing objects:  29% (182/627)Compressing objects:  30% (189/627)Compressing objects:  31% (195/627)Compressing objects:  32% (201/627)Compressing objects:  33% (207/627)Compressing objects:  34% (214/627)Compressing objects:  35% (220/627)Compressing objects:  36% (226/627)Compressing objects:  37% (232/627)Compressing objects:  38% (239/627)Compressing objects:  39% (245/627)Compressing objects:  40% (251/627)Compressing objects:  41% (258/627)Compressing objects:  42% (264/627)Compressing objects:  43% (270/627)Compressing objects:  44% (276/627)Compressing objects:  45% (283/627)Compressing objects:  46% (289/627)Compressing objects:  47% (295/627)Compressing objects:  48% (301/627)Compressing objects:  49% (308/627)Compressing objects:  50% (314/627)Compressing objects:  51% (320/627)Compressing objects:  52% (327/627)Compressing objects:  53% (333/627)Compressing objects:  54% (339/627)Compressing objects:  55% (345/627)Compressing objects:  56% (352/627)Compressing objects:  57% (358/627)Compressing objects:  58% (364/627)Compressing objects:  59% (370/627)Compressing objects:  60% (377/627)Compressing objects:  61% (383/627)Compressing objects:  62% (389/627)Compressing objects:  63% (396/627)Compressing objects:  64% (402/627)Compressing objects:  65% (408/627)Compressing objects:  66% (414/627)Compressing objects:  67% (421/627)Compressing objects:  68% (427/627)Compressing objects:  69% (433/627)Compressing objects:  70% (439/627)Compressing objects:  71% (446/627)Compressing objects:  72% (452/627)Compressing objects:  73% (458/627)Compressing objects:  74% (464/627)Compressing objects:  75% (471/627)Compressing objects:  76% (477/627)Compressing objects:  77% (483/627)Compressing objects:  78% (490/627)Compressing objects:  79% (496/627)Compressing objects:  80% (502/627)Compressing objects:  81% (508/627)Compressing objects:  82% (515/627)Compressing objects:  83% (521/627)Compressing objects:  84% (527/627)Compressing objects:  85% (533/627)Compressing objects:  86% (540/627)Compressing objects:  87% (546/627)Compressing objects:  88% (552/627)Compressing objects:  89% (559/627)Compressing objects:  90% (565/627)Compressing objects:  91% (571/627)Compressing objects:  92% (577/627)Compressing objects:  93% (584/627)Compressing objects:  94% (590/627)Compressing objects:  95% (596/627)Compressing objects:  96% (602/627)Compressing objects:  97% (609/627)Compressing objects:  98% (615/627)Compressing objects:  99% (621/627)Compressing objects: 100% (627/627)Compressing objects: 100% (627/627), done.
-Total 852 (delta 404), reused 488 (delta 191), pack-reused 0
-
-json-data-generator/Dockerfile (dockerfile)
-===========================================
-Tests: 16 (SUCCESSES: 15, FAILURES: 1, EXCEPTIONS: 0)
-Failures: 1 (HIGH: 1, CRITICAL: 0)
-
-HIGH: '-y' flag is missed: 'apt-get install dumb-init'
-════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-'apt-get' calls should use the flag '-y' to avoid manual user input.
-
-See https://avd.aquasec.com/misconfig/ds021
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
- json-data-generator/Dockerfile:27
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  27 [ RUN apt-get install dumb-init
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-
-
-ldes-client-sink/Dockerfile (dockerfile)
-========================================
-Tests: 17 (SUCCESSES: 15, FAILURES: 2, EXCEPTIONS: 0)
-Failures: 2 (HIGH: 2, CRITICAL: 0)
-
-HIGH: '-y' flag is missed: 'apt-get install apt-utils'
-════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-'apt-get' calls should use the flag '-y' to avoid manual user input.
-
-See https://avd.aquasec.com/misconfig/ds021
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
- ldes-client-sink/Dockerfile:19
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  19 [ RUN apt-get install apt-utils
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-
-HIGH: '-y' flag is missed: 'apt-get install dumb-init'
-════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-'apt-get' calls should use the flag '-y' to avoid manual user input.
-
-See https://avd.aquasec.com/misconfig/ds021
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
- ldes-client-sink/Dockerfile:33
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  33 [ RUN apt-get install dumb-init
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-
-
-ldes-list-fragments/Dockerfile (dockerfile)
-===========================================
-Tests: 16 (SUCCESSES: 15, FAILURES: 1, EXCEPTIONS: 0)
-Failures: 1 (HIGH: 1, CRITICAL: 0)
-
-HIGH: '-y' flag is missed: 'apt-get install dumb-init'
-════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-'apt-get' calls should use the flag '-y' to avoid manual user input.
-
-See https://avd.aquasec.com/misconfig/ds021
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
- ldes-list-fragments/Dockerfile:30
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  30 [ RUN apt-get install dumb-init
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-
-
-ldes-server-simulator/Dockerfile (dockerfile)
-=============================================
-Tests: 16 (SUCCESSES: 15, FAILURES: 1, EXCEPTIONS: 0)
-Failures: 1 (HIGH: 1, CRITICAL: 0)
-
-HIGH: '-y' flag is missed: 'apt-get install dumb-init'
-════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-'apt-get' calls should use the flag '-y' to avoid manual user input.
-
-See https://avd.aquasec.com/misconfig/ds021
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
- ldes-server-simulator/Dockerfile:26
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  26 [ RUN apt-get install dumb-init
-────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-
-
