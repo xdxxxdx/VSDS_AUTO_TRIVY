@@ -1,4 +1,5 @@
 
+#trivy the docker images: Runtime parameters, please modify them accordingly
 
 LDES_WORKBENCH_NIFI_TAG=20230116t113945
 LDES_SERVER_TAG=20230112t1553
