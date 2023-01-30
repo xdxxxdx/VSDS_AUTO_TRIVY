@@ -1,8 +1,7 @@
 
 
-# Scan docker images
-
-* Define docker tag in the ```user.env```, also ```bash``` files 
+# Trivy scan required docker images and github with spicific commits tag
+* Define docker image/github commits tag in the ```user.env```, ```trivyImage.sh``` and  ```trivyRepo.sh``` files 
 
 * Run ``` docker-compose --env-file user.env pull --parallel``` to synchronize all the docker image with correct tag
 
