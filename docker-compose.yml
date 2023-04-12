@@ -4,10 +4,9 @@ version: '3.3'
 services:
  LDES_SERVER:
     image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldes-server:${LDES_SERVER_TAG:-20230112t1553}
- LDES_CLIENT_CLI_VSDS-LDESWorkbench-Services :
-    image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldes-cli:${LDES_CLIENT_CLI_TAG:-20230116t1123}
- LDES_WORKBENCH_NIFI:
-    image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldes-workbench-nifi:${LDES_WORKBENCH_NIFI_TAG:-20230116t113945} 
- JSON_DATA_GENERATOR_TAG:
-    image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/json-data-generator:${JSON_DATA_GENERATOR_TAG:-20230113t0736}
+ LDI_WORKBENCH_NIFI :
+    image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldi-workbench-nifi:${LDI_WORKBENCH_NIFI_TAG:-20230407T130526}
+ LDI_ORCHESTRATOR:
+    image: ${DOCKER_REPO:-ghcr.io/informatievlaanderen}/ldi-orchestrator:${LDI_ORCHESTRATOR_TAG:-20230407T130529}
 # .....
+

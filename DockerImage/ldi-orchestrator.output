@@ -1,6 +1,6 @@
 
-ghcr.io/informatievlaanderen/ldes-server:20230407T1308 (debian 11.2)
-====================================================================
+ghcr.io/informatievlaanderen/ldi-orchestrator:20230407T130529 (debian 11.2)
+===========================================================================
 Total: 178 (HIGH: 126, CRITICAL: 52)
 
 ┌──────────────────────┬────────────────┬──────────┬────────────────────┬─────────────────────────┬──────────────────────────────────────────────────────────────┐
@@ -604,44 +604,17 @@ Total: 178 (HIGH: 126, CRITICAL: 52)
 
 Java (jar)
 ==========
-Total: 12 (HIGH: 0, CRITICAL: 12)
+Total: 3 (HIGH: 0, CRITICAL: 3)
 
 ┌─────────────────────────────────────────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
 │                           Library                           │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
 ├─────────────────────────────────────────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
-│ org.yaml:snakeyaml                                          │ CVE-2022-1471 │ CRITICAL │ 1.33              │ 2.0           │ SnakeYaml: Constructor Deserialization Remote Code Execution │
-│ (ldes-fragmentisers-geospatial-jar-with-dependencies.jar)   │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-1471                    │
+│ org.yaml:snakeyaml (ldio-application.jar)                   │ CVE-2022-1471 │ CRITICAL │ 1.33              │ 2.0           │ SnakeYaml: Constructor Deserialization Remote Code Execution │
+│                                                             │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-1471                    │
+├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
+│ org.yaml:snakeyaml (ldio-http-in-jar-with-dependencies.jar) │               │          │                   │               │                                                              │
+│                                                             │               │          │                   │               │                                                              │
 ├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
 │ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (ldes-fragmentisers-pagination-jar-with-dependencies.jar)   │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (ldes-fragmentisers-substring-jar-with-dependencies.jar)    │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (ldes-fragmentisers-timebased-jar-with-dependencies.jar)    │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (ldes-queue-none-jar-with-dependencies.jar)                 │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (ldes-server-port-admin-rest-jar-with-dependencies.jar)     │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (ldes-server-port-fetch-rest-jar-with-dependencies.jar)     │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (ldes-server-port-ingestion-rest-jar-with-dependencies.jar) │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (mongo-repository-jar-with-dependencies.jar)                │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (mongock-changeset-1-jar-with-dependencies.jar)             │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (mongock-changeset-2-jar-with-dependencies.jar)             │               │          │                   │               │                                                              │
-├─────────────────────────────────────────────────────────────┤               │          │                   │               │                                                              │
-│ org.yaml:snakeyaml                                          │               │          │                   │               │                                                              │
-│ (mongock-config-jar-with-dependencies.jar)                  │               │          │                   │               │                                                              │
+│ (ldio-http-in-poller-jar-with-dependencies.jar)             │               │          │                   │               │                                                              │
 └─────────────────────────────────────────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
